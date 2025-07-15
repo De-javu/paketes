@@ -1,2 +1,2 @@
 # paketes
-Hoy se adelanto hasta la clase has la creacion de worflow, ya la porxima clase arrancamos con este video estamos en el minuti 00:55 min .
+En esta calse trabajamos gran cantidad de paquetes, pero el que nos interesa es `chartjs-node-canvas`, que es un paquete que permite generar gráficos utilizando Chart.js en un entorno Node.js. 
